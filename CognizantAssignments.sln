@@ -1,0 +1,53 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week1", "week1", "{0377D431-4109-1088-BB8F-0E0CDFEAF817}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SourceCode", "SourceCode", "{DB740A65-ED4A-05C1-A65E-5F07EB335AE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcommerceSearch", "week1\SourceCode\EcommerceSearch\EcommerceSearch.csproj", "{7E2E69E9-EFAF-B0F6-C37E-847522B952C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPatternExample", "week1\SourceCode\FactoryMethodPatternExample\FactoryMethodPatternExample.csproj", "{19CE9551-745E-EDB4-9276-E0245DC0D321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancialForecast", "week1\SourceCode\FinancialForecast\FinancialForecast.csproj", "{0CE317A8-FB26-F6B2-41E8-51115AC8A831}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPatternExample", "week1\SourceCode\SingletonPatternExample\SingletonPatternExample.csproj", "{C6AC895C-E7C2-1AFE-8D9C-401C4717B107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E2E69E9-EFAF-B0F6-C37E-847522B952C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2E69E9-EFAF-B0F6-C37E-847522B952C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2E69E9-EFAF-B0F6-C37E-847522B952C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2E69E9-EFAF-B0F6-C37E-847522B952C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19CE9551-745E-EDB4-9276-E0245DC0D321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19CE9551-745E-EDB4-9276-E0245DC0D321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19CE9551-745E-EDB4-9276-E0245DC0D321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19CE9551-745E-EDB4-9276-E0245DC0D321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CE317A8-FB26-F6B2-41E8-51115AC8A831}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CE317A8-FB26-F6B2-41E8-51115AC8A831}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CE317A8-FB26-F6B2-41E8-51115AC8A831}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CE317A8-FB26-F6B2-41E8-51115AC8A831}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6AC895C-E7C2-1AFE-8D9C-401C4717B107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6AC895C-E7C2-1AFE-8D9C-401C4717B107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6AC895C-E7C2-1AFE-8D9C-401C4717B107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6AC895C-E7C2-1AFE-8D9C-401C4717B107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DB740A65-ED4A-05C1-A65E-5F07EB335AE0} = {0377D431-4109-1088-BB8F-0E0CDFEAF817}
+		{7E2E69E9-EFAF-B0F6-C37E-847522B952C4} = {DB740A65-ED4A-05C1-A65E-5F07EB335AE0}
+		{19CE9551-745E-EDB4-9276-E0245DC0D321} = {DB740A65-ED4A-05C1-A65E-5F07EB335AE0}
+		{0CE317A8-FB26-F6B2-41E8-51115AC8A831} = {DB740A65-ED4A-05C1-A65E-5F07EB335AE0}
+		{C6AC895C-E7C2-1AFE-8D9C-401C4717B107} = {DB740A65-ED4A-05C1-A65E-5F07EB335AE0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C840410B-DCE2-492F-81F1-BC2700409930}
+	EndGlobalSection
+EndGlobal
