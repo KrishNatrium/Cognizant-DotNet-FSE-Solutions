@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\DotNetsource\\repos\\KafkaChatApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1F604E-604E-4000-A4F5-1F5A752C59F5}|KafkaChatApp\\KafkaChatApp.csproj|c:\\users\\kiit\\dotnetsource\\repos\\kafkachatapp\\kafkachatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1F604E-604E-4000-A4F5-1F5A752C59F5}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1F604E-604E-4000-A4F5-1F5A752C59F5}|KafkaChatApp\\KafkaChatApp.csproj|c:\\users\\kiit\\dotnetsource\\repos\\kafkachatapp\\kafkachatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D1F604E-604E-4000-A4F5-1F5A752C59F5}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1F604E-604E-4000-A4F5-1F5A752C59F5}|KafkaChatApp\\KafkaChatApp.csproj|c:\\users\\kiit\\dotnetsource\\repos\\kafkachatapp\\kafkachatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1F604E-604E-4000-A4F5-1F5A752C59F5}|KafkaChatApp\\KafkaChatApp.csproj|solutionrelative:kafkachatapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\DotNetsource\\repos\\KafkaChatApp\\KafkaChatApp\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\DotNetsource\\repos\\KafkaChatApp\\KafkaChatApp\\Program.cs",
+              "RelativeToolTip": "KafkaChatApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:44:04.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\DotNetsource\\repos\\KafkaChatApp\\KafkaChatApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\DotNetsource\\repos\\KafkaChatApp\\KafkaChatApp\\Form1.cs",
+              "RelativeToolTip": "KafkaChatApp\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:21:13.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KIIT\\DotNetsource\\repos\\KafkaChatApp\\KafkaChatApp\\Form1.cs",
+              "RelativeDocumentMoniker": "KafkaChatApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\KIIT\\DotNetsource\\repos\\KafkaChatApp\\KafkaChatApp\\Form1.cs [Design]",
+              "RelativeToolTip": "KafkaChatApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:17:17.58Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
